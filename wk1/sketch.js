@@ -20,13 +20,13 @@ function Walker() {
 
   this.update = function() {
     // Move Walker randomly
-    var vel = createVector(random(-5, 5), random(-5, 5));
+    var vel = createVector(random(-10, 10), random(-10, 10));
     this.pos.add(vel);
   }
 
   this.display = function() {
     // Draw Walker as circle
-    fill(255);
-    ellipse(this.pos.x, this.pos.y, 48, 48);
+    fill(255,255,0);
+    ellipse(this.pos.x, this.pos.y, 50, 50);
   }
 }
