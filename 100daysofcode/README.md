@@ -6,7 +6,7 @@
 
 ## 1/17/2022
 * created a test project folder for godot
-* read the introduction in full: https://docs.godotengine.org/en/stable/getting_started/scripting/gdscript/gdscript_basics.html#introduction
+* read the gdscript basics in full: https://docs.godotengine.org/en/stable/getting_started/scripting/gdscript/gdscript_basics.html
 * started watching this tutorial: https://www.youtube.com/playlist?list=PLJ690cxlZTgIsmdEhFufnB7O6KWoMS8M6
 
 ## x
