@@ -9,4 +9,6 @@
 * read the gdscript basics in full: https://docs.godotengine.org/en/stable/getting_started/scripting/gdscript/gdscript_basics.html
 * started watching this tutorial: https://www.youtube.com/playlist?list=PLJ690cxlZTgIsmdEhFufnB7O6KWoMS8M6
 
-## x
+## 1/18/2022
+* i barely started making a neocities website long ago; now i want to try again
+* current code has been cleaned up from like 2 years ago, but i'll probably remove almost everything
