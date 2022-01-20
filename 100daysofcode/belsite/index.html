@@ -2,64 +2,55 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <!-- title-->
     <title>i was born out of love</title>
-
     <link href="style.css" rel="stylesheet" type="text/css" media="all">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="script.js"></script>
-    
+    <link rel="icon" href="icon.png">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   </head>
+
   <body>
+    
+    <div class="sidebar">
+      <h1>belargu</h1>
   
-    <h1>belargu</h1>
-    
-    <div class="table">
-    
-    	<div class="feed">
-    	  <div class="post">
-    	  <p>asdfdsfdsfdaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</p>
-    	  </div>
-    	  
-    	  <div class="post">
-    	  <p>second post!!!!!!!!!!!!!!! this is just a test <br><br><br><br><br>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</p>
-    	  </div>
-    	  
-    	  <div class="post">
-    	  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam mauris nisl, viverra id vehicula in, viverra et tortor. Cras magna ipsum, consectetur in bibendum a, semper pellentesque lacus. Praesent arcu ligula, ultrices vitae arcu id, efficitur luctus purus. Vivamus sed finibus risus. Nam id tristique lectus. Vivamus feugiat maximus metus, quis interdum arcu accumsan non. Aliquam erat volutpat. Cras sagittis tellus tortor, non commodo ante efficitur ac. Ut sed massa egestas leo venenatis pellentesque maximus id elit. Vivamus sed leo mauris. Curabitur tempor volutpat orci, at pretium dui mattis nec. Pellentesque at consectetur metus. Etiam imperdiet eu nisl sit amet sodales. Ut auctor tristique nunc, condimentum tempus odio eleifend et. Quisque pulvinar mollis sapien vestibulum semper. Vestibulum eget est nunc.</p>
-    	  </div>
-    	  
-    	</div>
-    
-      <div class="sidebar">
-	      <!-- search bar -->
-        <form class="example" action="action_page.php">
-          <button type="submit"><i class="fa fa-search"></i></button>
-          <input type="text" placeholder="Search..." name="search" >
-        </form>
-    
-        <div class="buttonbar">
-          <!--home-->
-          <button>home</button>
-          <!--about-->
-          <button>about</button>
-          <!--contact-->
-          <button>contact</button>
-          <!--portfolio-->
-          <button>portfolio</button>
-          <!--filter-->
-          <button>filter</button>
-          <!--messageboard-->
-          <button>messageboard</button>
-          <!--house mode-->
-          <button>house mode</button>
-        </div>
+      <nav>
+        <button onclick="document.location='index.html'">home</button>
+        <button>words</button>
+        <button>images</button>
+        <button>sounds</button>
+        <button>videos</button>
+        <button>interactive</button>
+        <button onclick="document.location='about.html'">about</button>
+        <button>portfolio</button>
+      </nav>
+
+      <!-- search bar; unusable right now -->
+      <form action="action_page.php">
+        <input type="text" placeholder="search" name="search" >
+        <button type="submit"><i class="fa fa-search"></i></button>
+        
+      </form>
+
+      <button class="house">house mode</button>
+    </div>
+
+    <div class="feed">
+      <div class="post">
+        <p>test</p>
+      </div>
+      <div class="post">
+        <p>test</p>
+      </div>
+      <div class="post">
+        <p>test</p>
+      </div>
+      <div class="post">
+        <p>test</p>
       </div>
     </div>
-  
-    
-    
 
-    
   </body>
+
 </html>
