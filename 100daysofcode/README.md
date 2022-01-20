@@ -12,3 +12,7 @@
 ## 1/18/2022
 * i barely started making a neocities website long ago; now i want to try again
 * current code has been cleaned up from like 2 years ago, but i'll probably remove almost everything
+
+## 1/19/2022
+got vaxxed body hurts didnt do anything today sorry :(
+
