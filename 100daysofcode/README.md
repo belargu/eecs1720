@@ -16,3 +16,8 @@
 ## 1/19/2022
 got vaxxed body hurts didnt do anything today sorry :(
 
+## 1/20/2022
+* worked on the website; made fixed sidebar & scrolling feed
+* made an about page to test moving to different pages
+
+##
