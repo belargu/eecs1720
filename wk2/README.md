@@ -1,3 +1,4 @@
+# oh cuss!
 an extension that changes every swear word to CUSS like in the movie Fantastic Mr. Fox
 
 ## swear words datasets
