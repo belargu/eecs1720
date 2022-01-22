@@ -1,0 +1,202 @@
+/*
+colors to change in every page
+body: color
+.navandsearch button:hover: bg color & border color
+.house: bg color
+*/
+
+body {
+    background-color: black;
+    font-family: Times;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 0;
+    position: relative;
+    border-color: inherit;
+}
+
+/*page colors*/
+#index {
+    color: yellow;
+}
+
+#index .tocolor button:hover {
+    background-color: yellow;
+    border-color: yellow;
+    color: black;
+}
+
+#words {
+    color: lime;
+}
+
+#words .tocolor button:hover {
+    background-color: lime;
+    border-color: lime;
+    color: black;
+}
+
+#images {
+    color: cyan;
+}
+
+#images .tocolor button:hover {
+    background-color: cyan;
+    border-color: cyan;
+    color: black;
+}
+
+#sounds {
+    color: magenta;
+}
+
+#sounds .tocolor button:hover {
+    background-color: magenta;
+    border-color: magenta;
+    color: black;
+}
+
+#videos {
+    color: red;
+}
+
+#vidoes .tocolor button:hover {
+    background-color: red;
+    border-color: red;
+    color: black;
+}
+
+#games {
+    color: orange;
+}
+
+#games .tocolor button:hover {
+    background-color: orange;
+    border-color: orange;
+    color: black;
+}
+
+#about {
+    color: white;
+}
+
+#about .tocolor button:hover {
+    background-color: white;
+    border-color: white;
+    color: black;
+}
+/*end of page colors*/
+
+header {
+    font-size: 48px;
+    font-weight: normal;
+    text-align: right;
+    margin-bottom: 5px;
+    margin-top: 20px;
+}
+
+p {
+    font-size: 14px;
+    margin: 0;
+}
+
+button {
+    cursor: pointer;
+}
+
+.feed {
+    float: right;
+    margin-right: 200px;
+    width:70%;
+    border-color: inherit;
+}
+
+.post {
+    border: 1px solid;
+    background: transparent;
+    margin: 30px 0px 30px 0px;
+    padding: 15px;
+}
+
+.sidebar {
+    position: fixed;
+    right: 20%;
+    width: 142px;
+    color: inherit;
+    font-size: 14px;
+}
+
+form input {
+    float: right;
+    padding: 8px;
+    font-size: inherit;
+    border: 1px solid;
+    width: 90px;
+    background: transparent;
+    font-family: inherit;
+    color: inherit;
+    border-right: 0; /*prevent double borders */
+}
+
+/* Style the submit button */
+form button {
+    float: right;
+    width: 35px;
+    padding: 6.3px;
+    background: transparent;
+    color: inherit;
+    font-size: 17px;
+    border: 1px solid;
+    text-align: center;
+}
+
+/* Clear floats */
+form::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+/*nav*/
+nav {
+    padding-bottom: 8px;
+    border: solid 1px;
+    background-color: transparent;
+    margin-bottom: 10px;
+}
+
+nav button {
+    width: 125px;
+    border: solid 1px;
+    padding: 6px;
+    margin: 8px 8px 0px 8px;
+    font-size: inherit;
+    color: inherit;
+    background-color: transparent;
+    font-family: inherit;
+    text-align: left;
+}
+
+.house {
+    margin-top: 25px;
+    padding: 8px;
+    width: 100%;
+    font-weight:bold;
+    font-size: inherit;
+    font-family: inherit;
+    border: 1px solid;
+    background-color: yellow;
+    
+}
+
+.house:hover {
+    background-color: white;
+    color: black;
+}
+
+
+
+
+
+
+
