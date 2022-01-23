@@ -20,6 +20,9 @@ got vaxxed body hurts didnt do anything today sorry :(
 * worked on the website; made fixed sidebar & scrolling feed
 * made an about page to test moving to different pages
 
+## 1/21/2022
+* worked on lab 1 - browser extension
+
 ## 1/22/2022
 * worked on website; implemented some jquery to append nav to every page
 * made more pages
