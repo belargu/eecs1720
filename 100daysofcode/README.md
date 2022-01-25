@@ -28,4 +28,5 @@ got vaxxed body hurts didnt do anything today sorry :(
 * made more pages
 * each page changes color based on id
 
-## 
+## 1/23/2022
+* worked on max 8 stuff for datt1020
