@@ -1,1 +1,3 @@
-prof's repo: https://github.com/MissCrispenCakes/EECS_1720
+* week 1: warming up
+* week 2: BROWSER EXTENSION LAB
+* week 3: 
