@@ -30,3 +30,8 @@ got vaxxed body hurts didnt do anything today sorry :(
 
 ## 1/23/2022
 * worked on max 8 stuff for datt1020
+
+## 1/26/2022
+* continued learning godot; messed around with the test project file
+
+## 
