@@ -1,5 +1,5 @@
 # oh cuss!
-an extension that changes every swear word to CUSS like in the movie Fantastic Mr. Fox
+a chrome extension that changes every swear word to CUSS like in the movie Fantastic Mr. Fox
 
 ## swear words datasets
 * i originally thought of using a list of swear words i found online but decided against it because it had words i didn't want in my repo
